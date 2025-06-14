@@ -1,0 +1,9 @@
+{
+  "shred_passes": 3,
+  "log_level": "INFO",
+  "log_file": "/tmp/trackshred.log",
+  "clean_thumbnails": true,
+  "clean_recent_files": true,
+  "clean_trash": true,
+  "clean_shell_history": false
+}

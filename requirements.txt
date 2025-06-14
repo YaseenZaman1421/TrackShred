@@ -1,0 +1,10 @@
+# TrackShred Dependencies
+# No external Python packages required - uses only standard library
+# Optional system dependencies (install via package manager):
+# - shred (part of coreutils)
+# - exiftool (for advanced metadata cleaning)
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
