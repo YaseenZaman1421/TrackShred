@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 # Version information
-__version__ = "1.0.1"
+__version__ = "1.6.2"
 __author__ = "TrackShred"
 
 # Exit codes

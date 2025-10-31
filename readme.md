@@ -1,4 +1,4 @@
-# 🔐 TrackShred v1.0.1 – Secure File & Metadata Destruction Tool
+# 🔐 TrackShred v1.6.2 – Secure File & Metadata Destruction Tool
 
 TrackShred is a Linux-only CLI tool to **securely shred files**, **clean metadata**, and **remove privacy-leaking system traces**. Designed for privacy-conscious users, security researchers, and Linux professionals, it helps you wipe data the right way — safely, efficiently, and completely.
 
